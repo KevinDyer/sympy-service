@@ -2,6 +2,7 @@
 
 from sympy import *
 from sympy.simplify.fu import *
+from sympy.physics.units import *
 
 
 FUNC_WHITELIST = [
